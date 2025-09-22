@@ -6,6 +6,7 @@
 #Технический стек:
 - Python
 - PostgreSQL
+- Data Analysis
 
   #Контакты:
   - Telegram: @Koshatin
