@@ -16,8 +16,9 @@ Data Scientist с уникальным бэкграундом в психоло�
 
 [![View Code](https://img.shields.io/badge/VIEW-CODE-blue?style=for-the-badge)](https://github.com/KoshaTailwind/Coding/blob/main/Coding/colored_potion.py)
 
-### 🐶 [Анализ пород собак Stanford Dogs](https://github.com/KoshaTailwind/Coding/blob/main/Coding/DogBreed_PhotoAnalys.ipynb)
-**Полный ETL пайплайн обработки 20,000+ изображений**
+### 🐶 Анализ датасета Stanford Dogs (Data Analysis)
+
+[![View Analysis](https://img.shields.io/badge/VIEW-ANALYSIS-blue?style=for-the-badge)](https://github.com/KoshaTailwind/Coding/blob/main/Coding/DogBreed_PhotoAnalys.ipynb)
 
 ### 📊 Анализ данных
 Примеры анализа и визуализации данных в Jupyter Notebook
